@@ -1,0 +1,16 @@
+{
+    "symbol": "YSM",
+    "address": "0xAa7eF0AAF15B0cEcbA6f57aA7043a7ca02a8A036",
+    "overview": {
+        "en": "YSM uses original interactive work proofs and uses blockchain technology to redefine interaction",
+        "zh": "魔方链采用独创的互动量工作证明，利用区块链技术，重新定义互动方式"
+    },
+    "email": "munhonggg@gmail.com.com",
+    "website": "www.ysmpay.com",
+    "whitepaper": "http://www.ysmpay.com/ysmp_b.pdf",
+    "state": "NORMAL",
+    "published_on": "2020-03-20",
+    "initial_price": {
+        "ETH": "0.00666666 ETH"
+    }
+}
